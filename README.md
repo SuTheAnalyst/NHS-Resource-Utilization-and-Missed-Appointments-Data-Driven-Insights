@@ -10,8 +10,8 @@ Some stakeholders feel that the NHS’s capacity should be increased while other
 
 Therefore, reducing or eliminating missed appointments would be beneficial financially as well as socially. The government needs a data-informed approach to decide how best to handle this problem. At this stage of the project, the two main questions posed by the NHS are:
 
-Has there been adequate staff and capacity in the networks?
-What was the actual utilisation of resources?
+- Has there been adequate staff and capacity in the networks?
+- What was the actual utilisation of resources?
 
 # Access the data
 Files included as below: 
